@@ -1,4 +1,4 @@
-# CLI script test
+# CLI script demo
 
 ## How to run
 
