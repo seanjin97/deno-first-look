@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "dot-object": "npm:dot-object@2.1.4",
+    "js-yaml": "npm:js-yaml@4.1.0"
+  },
+  "tasks": {
+    "run-demo": "deno run --allow-read --allow-write mergeYaml.ts --file1=fixture1.yaml --file2=fixture2.yaml --outputFile=output.yaml",
+    "test": "deno test --allow-read __tests__"
+  }
+}

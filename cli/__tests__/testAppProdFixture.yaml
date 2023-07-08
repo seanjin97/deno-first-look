@@ -1,0 +1,13 @@
+person:
+  url: http://prod.gov.sg
+  hobbies:
+    swimming:
+      frequency: weekly
+      with: family
+  i-must-appear: hello
+  licences:
+    - name: 1
+    - name: 3
+
+some-list:
+  - C

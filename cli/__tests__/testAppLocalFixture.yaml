@@ -1,0 +1,17 @@
+alien:
+  name: fatcow
+person:
+  url: dev.gov.sg
+  hobbies:
+    swimming:
+      frequency: daily
+      with: friends
+    running:
+      man: yes
+  licences:
+    - name: 1
+    - name: 2
+
+some-list:
+  - A
+  - B
